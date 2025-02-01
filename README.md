@@ -60,4 +60,8 @@ Ensure you have the following installed before running the application:
 
 ---
 
+## 📝Note: 
+- We are still working on it to make it more better and more interactive as, nothing in this world is perfect itself. 🙂
+  
+---
 
